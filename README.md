@@ -10,14 +10,14 @@ Clone this repository
 Install dependencies:
 pip install python-dotenv openai
 
-Create a file named ".env" in the project root with your API key:
+## Create a file named ".env" in the project root with your API key:
 API_KEY=your_openai_api_key_here
 
-### Run
+## Run
 From the project folder, run:
 python main.py
 
-#Notes
+# Notes
 
 ".env" is not included in the repo (see the provided ".env.example").
 
